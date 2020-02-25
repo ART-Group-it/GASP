@@ -42,11 +42,11 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>url</td>
-    <td><code itemprop="url">https://bitbucket.org/fabiomassimozanzotto/gasp/</code></td>
+    <td><code itemprop="url">https://github.com/ART-Group-it/GASP</code></td>
   </tr>
   <tr>
     <td>sameAs</td>
-    <td><code itemprop="sameAs">https://bitbucket.org/fabiomassimozanzotto/gasp/</code></td>
+    <td><code itemprop="sameAs">https://github.com/ART-Group-it/GASP</code></td>
   </tr>
   <tr>
     <td>description</td>
