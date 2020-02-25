@@ -32,7 +32,7 @@ Each file in the corpus is a list of the above structures.
 
 ## GASP! Download
 
-
+The corpus is available to download at <a href="https://bitbucket.org/fabiomassimozanzotto/gasp/raw/54d25cbc28f5da3e7233330e825bf365d065c200/Gasp%20corpus.zip"> this address </a>
 
 ## GASP! Cite
 
