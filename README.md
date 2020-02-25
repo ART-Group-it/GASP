@@ -1,11 +1,15 @@
 # GASP! Generating Abstracts of Scientific Papers from Abstracts of Cited Papers
+This repository contains the GASP dataset
+GASP is a dataset composed by list of cited abstracts associated with the corresponding source abstract. The goal is to generete a paper abstract give cited paper's abstracts and model the human creativity behind the process.
+
+## GASP! Motivation
 
 Creativity is one of the driving forces of human kind as it allows to break current understanding to envision new ideas, which may revolutionize entire fields of knowledge. Scientific research offers a challenging environment where to learn creativity. In fact, scientific research is a creative act in the formal settings of the scientific method and this creative act is describe in articles.
 
 Here, we dare to introduce the novel, scientifically and philosophically challenging task of Generating Abstracts of Scientific Papers from abstracts of cited papers (GASP) as a text-to-text task to investigate scientific creativity, To foster research in this novel, challenging task, we prepared a dataset by using services where that solve the problem of copyright and, hence, the dataset is public available with its standard split.  Finally, we experimented with three vanilla summarization systems to start the analysis of the complexity of the GASP task.
 
 
-# GASP! The dataset 
+## GASP! The dataset 
 
 
 The GASP task is aimed to producing **the target abstract** of a paper - **output_paper** - given the abstracts of the set of referred papers - **input_papers**. This latter is a list of abstracts, which we may assume have been inspirational for the idea in the target paper:
