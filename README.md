@@ -1,6 +1,9 @@
 # GASP! Generating Abstracts of Scientific Papers from Abstracts of Cited Papers
-This repository contains the GASP dataset
-GASP is a dataset composed by list of cited abstracts associated with the corresponding source abstract. The goal is to generete a paper abstract give cited paper's abstracts and model the human creativity behind the process.
+This repository contains the GASP dataset.
+
+GASP is a dataset composed by list of cited abstracts associated with the corresponding source abstract.
+
+The goal is to generete a paper abstract give cited paper's abstracts and model the human creativity behind the process.
 
 ## GASP! Motivation
 
