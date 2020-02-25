@@ -17,21 +17,26 @@ Here, we dare to introduce the novel, scientifically and philosophically challen
 
 The GASP task is aimed to producing the target abstract of a paper `"output_paper"` given the abstracts of the set of referred papers `"input_papers"`. This latter is a list of abstracts, which we may assume have been inspirational for the idea in the target paper.
 
-Each file in the corpus is a list of the above structures
+The dataset is composed by a training set of 100000 elements, a test set and a validation set of 10000 each.
+
+Each set is a `.json`file composed by a list of elements following the structure below:
 ```
 [{
 	 "input_papers": [
 	 		"CONTEXT Mentoring, as a partnership ...  issues, and using cross-disciplinary approaches.", 
 	 		"PROBLEM AND BACKGROUND In 1998, the University of ... retention in academic medicine.", 
-			"PURPOSE To determine (1) the prevalence of ... deliberate approach to the practice of mentoring."
-			         ], 
+			"PURPOSE To determine (1) the prevalence of ... deliberate approach to the practice of mentoring.",
+			 ...], 
 	 "output_paper": "The purpose of this article is to ... proposed next steps for research in this area.",
 	 "output_id": "363801205efb14a28dea8cbcdc86afc2eb908f53"
  },
  ...
  ]
 ```
-Each file in the corpus is a list of the above structures.
+Where:
+- `"input_papers"` is a variable lenght list of string of papers
+- `"output_paper"` is the text of the output paper (string)
+- `"output_id"`is the S2 Paper ID of the output paper that can be used to look for additional information with <a href="https://api.semanticscholar.org/">Semantic Scholar API</a>
 
 
 ## GASP! Download
