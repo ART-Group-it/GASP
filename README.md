@@ -15,9 +15,11 @@ Here, we dare to introduce the novel, scientifically and philosophically challen
 ## GASP! The dataset 
 
 
-The GASP task is aimed to producing **the target abstract** of a paper - **output_paper** - given the abstracts of the set of referred papers - **input_papers**. This latter is a list of abstracts, which we may assume have been inspirational for the idea in the target paper:
-	
-	{
+The GASP task is aimed to producing the target abstract of a paper `"output_paper"` given the abstracts of the set of referred papers `"input_papers"`. This latter is a list of abstracts, which we may assume have been inspirational for the idea in the target paper.
+
+Each file in the corpus is a list of the above structures
+```
+[{
 	 "input_papers": [
 	 		"CONTEXT Mentoring, as a partnership ...  issues, and using cross-disciplinary approaches.", 
 	 		"PROBLEM AND BACKGROUND In 1998, the University of ... retention in academic medicine.", 
@@ -25,8 +27,10 @@ The GASP task is aimed to producing **the target abstract** of a paper - **outpu
 			         ], 
 	 "output_paper": "The purpose of this article is to ... proposed next steps for research in this area.",
 	 "output_id": "363801205efb14a28dea8cbcdc86afc2eb908f53"
-	}
-
+ },
+ ...
+ ]
+```
 Each file in the corpus is a list of the above structures.
 
 
@@ -41,6 +45,10 @@ Please, if you use the GASP dataset cite:
 ```
 @cite
 ```
+
+## GASP! License
+
+GASP dataset is licensed under <a href="https://opendatacommons.org/licenses/by/1.0/">ODC-BY</a>.
 
 ### Dataset Metadata
 The following table is necessary for this dataset to be indexed by search
