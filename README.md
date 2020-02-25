@@ -30,6 +30,18 @@ The GASP task is aimed to producing **the target abstract** of a paper - **outpu
 Each file in the corpus is a list of the above structures.
 
 
+## GASP! Download
+
+
+
+## GASP! Cite
+
+Please, if you use the GASP dataset cite:
+
+```
+@cite
+```
+
 ### Dataset Metadata
 The following table is necessary for this dataset to be indexed by search
 engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
