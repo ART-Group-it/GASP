@@ -19,7 +19,7 @@ The GASP task is aimed to producing the target abstract of a paper `"output_pape
 
 The dataset is composed by a training set of 100000 elements, a test set and a validation set of 10000 each.
 
-Each set is a `.json`file composed by a list of elements following the structure below:
+Each set is a `.json` files composed by a list of elements following the structure below:
 ```
 [{
 	 "input_papers": [
