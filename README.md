@@ -9,7 +9,7 @@ The goal is to generete a paper abstract give cited paper's abstracts and model 
 
 Creativity is one of the driving forces of human kind as it allows to break current understanding to envision new ideas, which may revolutionize entire fields of knowledge. Scientific research offers a challenging environment where to learn creativity. In fact, scientific research is a creative act in the formal settings of the scientific method and this creative act is describe in articles.
 
-Here, we dare to introduce the novel, scientifically and philosophically challenging task of Generating Abstracts of Scientific Papers from abstracts of cited papers (GASP) as a text-to-text task to investigate scientific creativity, To foster research in this novel, challenging task, we prepared a dataset by using services where that solve the problem of copyright and, hence, the dataset is public available with its standard split.  Finally, we experimented with three vanilla summarization systems to start the analysis of the complexity of the GASP task.
+Here, we dare to introduce the novel as well as scientifically and philosophically challenging task of Generating Abstracts of Scientific Papers from the abstracts of their citations (GASP) as a text-to-text rewriting task to investigate scientific creativity. To foster research about this original challenge, we set up an annotated dataset by using services that solved the copyrighht problems. As a result, the dataset is publicly available and offers examples of real papers and a reference training-test split. Finally, three vanilla summarization systems have been already applied to the dataset whose outcomes allowed to early measure the GASP task complexity.
 
 
 ## GASP! The dataset 
