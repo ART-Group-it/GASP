@@ -38,6 +38,7 @@ Where:
 - `"output_paper"` is the text of the output paper (string)
 - `"output_id"`is the S2 Paper ID of the output paper that can be used to look for additional information with <a href="https://api.semanticscholar.org/">Semantic Scholar API</a>
 
+More information in the <a href="http://doi.org/10.13140/RG.2.2.20755.22562">paper</a> 
 
 ## GASP! Download
 
@@ -48,7 +49,13 @@ The corpus is available to download at <a href="https://bitbucket.org/fabiomassi
 Please, if you use the GASP dataset cite:
 
 ```
-@cite
+@article{Zanzotto_Bono_Vocca_Santilli_Croce_Gambosi_Basili_2020, 
+	title={GASP! Generating Abstracts of Scientific Papers from Abstracts of Cited Papers}, 
+	url={http://rgdoi.net/10.13140/RG.2.2.20755.22562}, 
+	DOI={10.13140/RG.2.2.20755.22562}, 
+	author={Zanzotto, Fabio Massimo and Bono, Viviana and Vocca, Paola and 
+	        Santilli, Andrea and Croce, Danilo and Gambosi, Giorgio and Basili, Roberto}, 
+	year={2020} }
 ```
 
 ## GASP! License
