@@ -107,7 +107,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>citation</td>
-    <td><code itemprop="citation">https://identifiers.org/arxiv:1909.05855</code></td>
+    <td><code itemprop="citation">http://doi.org/10.13140/RG.2.2.20755.22562</code></td>
   </tr>
 </table>
 </div>
