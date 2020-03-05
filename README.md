@@ -42,7 +42,7 @@ More information in the <a href="http://doi.org/10.13140/RG.2.2.20755.22562">pap
 
 ## GASP! Download
 
-The corpus is available to download at <a href="https://bitbucket.org/fabiomassimozanzotto/gasp/raw/54d25cbc28f5da3e7233330e825bf365d065c200/Gasp%20corpus.zip"> this address </a>
+The corpus is available to download from the <a href="http://art.uniroma2.it/zanzotto/datasets/GASP_corpus_v1.0.zip">the ART Site</a>
 
 ## GASP! Cite
 
@@ -118,3 +118,9 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
 </table>
 </div>
+
+
+## GASP! underlying project(s)
+
+GASP! is a result of research in this project:
+<a href="http://HitAI.org"><b>HitAI.org</b> Human-in-the-loop Artificial Intelligence</a> 
