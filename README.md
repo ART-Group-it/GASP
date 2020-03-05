@@ -127,4 +127,8 @@ If you have comments, suggestions or you want to communicate results, please con
 
 ## GASP! underlying project(s)
 
-GASP! is a result of research in this project: <a href="http://HitAI.org"><b>HitAI.org</b> Human-in-the-loop Artificial Intelligence</a> 
+GASP! is a result of research in this project: <a href="http://HitAI.org"><b>HitAI.org</b> Human-in-the-loop Artificial Intelligence</a>
+
+## Acknowledgement
+
+Our corpus is based on the <a href="https://api.semanticscholar.org/corpus/">Semantic Scholar Corpus</a>. We would like to thank them for their important contribution. If you are using our corpus, please cite also their work. 
