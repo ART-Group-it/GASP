@@ -127,4 +127,4 @@ If you have comments, suggestions or you want to communicate results, please con
 
 ## GASP! underlying project(s)
 
-GASP! is a result of research in this project: <a href="http://HitAI.org"><b>HitAI.org</b>Human-in-the-loop Artificial Intelligence</a> 
+GASP! is a result of research in this project: <a href="http://HitAI.org"><b>HitAI.org</b> Human-in-the-loop Artificial Intelligence</a> 
