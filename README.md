@@ -89,7 +89,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>description</td>
-    <td><code itemprop="description">The dataset consists of list of cited abstracts associated with the corresponding source abstract. The goal is to generete a paper abstract give cited paper's abstracts.</code></td>
+    <td><code itemprop="description">The dataset consists of list of cited abstracts associated with the corresponding source abstract. The goal is to generete the abstract of a target paper given the abstracts of cited papers.</code></td>
   </tr>
   <tr>
     <td>provider</td>
@@ -127,5 +127,4 @@ If you have comments, suggestions or you want to communicate results, please con
 
 ## GASP! underlying project(s)
 
-GASP! is a result of research in this project:
-<a href="http://HitAI.org"><b>HitAI.org</b> Human-in-the-loop Artificial Intelligence</a> 
+GASP! is a result of research in this project: <a href="http://HitAI.org"><b>HitAI.org</b>Human-in-the-loop Artificial Intelligence</a> 
